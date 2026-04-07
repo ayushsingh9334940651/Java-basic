@@ -1,6 +1,6 @@
 package BasicJava;
 import java.util.*;
-public class problem {
+public class numcheck {
  public static void main(String[] args) {
     Scanner sec=new Scanner(System.in);
     // use for find sum of odd and even digit in any number
