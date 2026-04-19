@@ -1,6 +1,6 @@
 package BasicJava;
 import java.util.*;
-public class armstrong {
+public class armstronng {
     public static void main(String[] args){
      int num =153;
      int sum =0;
