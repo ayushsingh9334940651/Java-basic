@@ -1,11 +1,10 @@
 package BasicJava;
-import java.util.*;
 public class armstronng {
     public static void main(String[] args){
      int num =153;
      int sum =0;
     int count=0;
-    int y=0;
+    int y;
     int tem=num;
      while(num>0){
         count++;
